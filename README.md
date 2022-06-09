@@ -4,7 +4,7 @@
   - Splash Screen 앱 제작하기
 
 - [x] MainAxisAlignment 완전정복
-- [ ] CrossAxisAlignment 완전정복
+- [x] CrossAxisAlignment 완전정복
 - [ ] MainAxisSize 완전정복
 - [ ] Expanded 위젯과 Flexible 위젯
 - [ ] 실습
