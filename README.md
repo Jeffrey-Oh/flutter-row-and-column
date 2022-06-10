@@ -7,4 +7,4 @@
 - [x] CrossAxisAlignment 완전정복
 - [x] MainAxisSize 완전정복
 - [x] Expanded 위젯과 Flexible 위젯
-- [ ] 실습
+- [x] 실습
